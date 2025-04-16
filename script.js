@@ -1,6 +1,6 @@
-## JavaScript (script.js)
 
-```javascript
+
+javascript
 Document.addEventListener('DOMContentLoaded', function() {
     // Прелоадер
     Const preloader = document.querySelector('.preloader');
